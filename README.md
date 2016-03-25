@@ -1,4 +1,4 @@
-<h1>Quadris</h1>
+<h1>Active Directory Management Tool</h1>
 
 <h1>Introduction</h1>
 This tool allow users to manage individual accounts on Active Directory through a user-friendly GUI. It provides many attributes including email, title, description, office, department, phone numbers, home path, accout expiry, etc.
